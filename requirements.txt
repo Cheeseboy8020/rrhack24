@@ -1,3 +1,0 @@
-py-solc-x
-"web3[tester]"
-web3
